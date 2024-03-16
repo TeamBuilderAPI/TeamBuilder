@@ -1,4 +1,4 @@
-@TeamBuilder_HostAddress = http://localhost:5028
+@TeamBuilder_HostAddress = http://localhost:5277
 
 GET {{TeamBuilder_HostAddress}}/weatherforecast/
 Accept: application/json
