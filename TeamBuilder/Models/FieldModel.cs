@@ -1,4 +1,4 @@
-﻿namespace TeamBuilder.Model
+﻿namespace TeamBuilder.Models
 {
     public static class FieldModel
     {
