@@ -1,5 +1,7 @@
 # TeamBuilder
 
+We moved here: https://github.com/TeamBuilderApp/TeamBuilder
+
 Welcome to Team Builder! 
 
 These ideas came to me shortly after college, (a tech school), when I desired to have a stable Team ready for new game releases and or sports where pickup games just were not promising on a routine attendance. I also desired a way to have a full team for an extended or routine amount of time. I desired to fill in empty positions without missing the new game release, push for a world-first achievement, or sporting events, where a full team was needed for a satisfying accurate game. Quick and reliable plug and play for empty spots was key when trying to have a full game experience. 
